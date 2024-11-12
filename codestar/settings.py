@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-i)@+l@$g=&j(7gxg#v0n395&%!$(-++j=)1_$*@@8ad^qxt7rr'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['8000-laurachrihal-djangoblog-feia8n57m5e.ws.codeinstitute-ide.net']
+ALLOWED_HOSTS = ['8000-laurachrihal-djangoblog-feia8n57m5e.ws.codeinstitute-ide.net','.herokuapp.com']
 
 # Allows pass of CSRF verification
 
