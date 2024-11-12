@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-i)@+l@$g=&j(7gxg#v0n395&%!$(-++j=)1_$*@@8ad^qxt7rr
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['8000-laurachrihal-djangoblog-feia8n57m5e.ws.codeinstitute-ide.net','.herokuapp.com']
+ALLOWED_HOSTS = ['8000-laurachrihal-djangoblog-feia8n57m5e.ws.codeinstitute-ide.net','django-blog-wlkthgh-a8a837e4edf1.herokuapp.com']
 
 # Allows pass of CSRF verification
 
